@@ -101,7 +101,7 @@ flowchart TD
 
 - [x] **Módulo 1 — Gestão de Peças e Catálogo**
     - CRUD de peças, DTOs, validações e persistência em MySQL.
-- [ ] **Módulo 2 — Controle de Estoque e Movimentações**
+- [X] **Módulo 2 — Controle de Estoque e Movimentações**
     - Entradas, saídas, histórico de movimentações e alertas de estoque mínimo.
 - [ ] **Módulo 3 — Gestão de Clientes e Fornecedores**
     - Cadastros e vínculos comerciais.
